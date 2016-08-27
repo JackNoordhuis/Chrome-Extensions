@@ -1,0 +1,19 @@
+{
+    "name": "GitHub",
+    "description": "Basic extension for Chrome to go staright to the github site from your apps page!",
+    "author": "Jack Noordhuis",
+    "app": {
+        "urls": ["https://github.com"],
+        "launch": {
+            "web_url": "https://github.com"
+        }
+    }, 
+    "manifest_version": 2,
+    "version": "0.1",
+    "icons": {
+        "128": "icons/128.png",
+        "200": "icons/200.png"
+    }
+}
+
+
