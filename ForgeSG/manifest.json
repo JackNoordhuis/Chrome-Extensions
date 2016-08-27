@@ -1,0 +1,18 @@
+{
+    "name": "ForgeSG",
+    "description": "Basic extension for Chrome to go straight to the ForgeSG site from your apps page!",
+    "author": "Jack Noordhuis",
+    "app": {
+        "urls": ["http://forgesg.net"],
+        "launch": {
+            "web_url": "http://forgesg.net"
+        }
+    }, 
+    "manifest_version": 2,
+    "version": "0.1",
+    "icons": {
+        "128": "icons/128.png"
+    }
+}
+
+

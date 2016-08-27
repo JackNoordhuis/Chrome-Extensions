@@ -1,6 +1,6 @@
 {
     "name": "GitHub",
-    "description": "Basic extension for Chrome to go staright to the github site from your apps page!",
+    "description": "Basic extension for Chrome to go straight to the github site from your apps page!",
     "author": "Jack Noordhuis",
     "app": {
         "urls": ["https://github.com"],
