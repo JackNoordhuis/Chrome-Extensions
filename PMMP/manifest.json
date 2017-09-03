@@ -1,0 +1,19 @@
+{
+    "name": "PMMP",
+    "description": "Basic extension for Chrome to go straight to the PMMP forums site from your apps page!",
+    "author": "Jack Noordhuis",
+    "app": {
+        "urls": ["https://forums.pmmp.io"],
+        "launch": {
+            "web_url": "https://forums.pmmp.io"
+        }
+    }, 
+    "manifest_version": 2,
+    "version": "0.1",
+    "icons": {
+        "32": "icons/32.png",
+        "256": "icons/256.png"
+    }
+}
+
+
